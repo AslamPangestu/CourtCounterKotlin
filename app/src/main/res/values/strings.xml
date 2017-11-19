@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Court Counter</string>
-    <string name="name_team1">TEAM A</string>
-    <string name="name_team2">TEAM B</string>
+    <string name="name_team1">HOUSTON ROCKETS</string>
+    <string name="name_team2">SAN ANTONIO SPURS</string>
     <string name="point_add3">+3 Point</string>
     <string name="point_add2">+2 Point</string>
     <string name="point_add1">+1 Point</string>
